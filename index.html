@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Food Search App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Search Food</h1>
+    <input type="text" id="searchBox" placeholder="Type food name..." />
+    <div id="results"></div>
+  </div>
+  <section class="hero">
+  <div class="hero-content">
+    <h1>Fuel Your Fitness Journey</h1>
+    <p>Personalized diet plans and smart food tracking – all in one place.</p>
+    <a href="#" class="cta-btn">Get Started</a>
+  </div>
+
+</section>
+<section class="features">
+  <h2>Why Choose FitFuel?</h2>
+  <div class="feature-cards">
+    <div class="feature-card">
+      <h3>🍎 Calorie Tracking</h3>
+      <p>Track every meal with our smart calorie counter.</p>
+    </div>
+    <div class="feature-card">
+      <h3>🥗 Personalized Diet Plans</h3>
+      <p>Get meal plans tailored to your fitness goal.</p>
+    </div>
+    <div class="feature-card">
+      <h3>📈 Progress Monitoring</h3>
+      <p>Visualize your fitness journey with weekly reports.</p>
+    </div>
+  </div>
+</section>
+<section class="testimonials">
+  <h2>What Our Users Say</h2>
+  <div class="testimonial-cards">
+    <div class="testimonial-card">
+      <p>"FitFuel ने मेरी ज़िंदगी बदल दी! अब मैं हर दिन अपना डाइट ट्रैक करता हूँ।"</p>
+      <h4>– Rahul, Gym Enthusiast</h4>
+    </div>
+    <div class="testimonial-card">
+      <p>"Customized diet plans ने मेरी वेट लॉस journey बहुत आसान बना दी।"</p>
+      <h4>– Sneha, Yoga Trainer</h4>
+    </div>
+    <div class="testimonial-card">
+      <p>"मैं हर हफ्ते अपनी प्रोग्रेस रिपोर्ट चेक करता हूँ – super motivating!"</p>
+      <h4>– Aman, Athlete</h4>
+    </div>
+  </div>
+</section>
+<!-- Login / Signup Modal -->
+<div id="authModal" class="modal">
+  <div class="modal-content">
+    <span id="closeModal" class="close-btn">&times;</span>
+    <h2>Welcome to FitFuel</h2>
+    <button class="auth-btn">Login</button>
+    <button class="auth-btn">Sign Up</button>
+  </div>
+</div>
+ <!-- Diet Plan Generator Form -->
+<section class="diet-plan-form">
+  <h2>Generate Your Custom Diet Plan</h2>
+  <form id="dietForm">
+    <label for="weight">Enter Your Weight (kg):</label>
+    <input type="number" id="weight" name="weight" required>
+
+    <label for="goal">Select Goal:</label>
+    <select id="goal" name="goal" required>
+      <option value="gain">Weight Gain</option>
+      <option value="loss">Weight Loss</option>
+    </select>
+
+    <label for="exercise">Exercise Frequency:</label>
+    <select id="exercise" name="exercise" required>
+      <option value="none">No Exercise</option>
+      <option value="light">1-2 times/week</option>
+      <option value="moderate">3-4 times/week</option>
+      <option value="heavy">Daily/Heavy Workout</option>
+    </select>
+
+    <button type="submit">Generate Plan</button>
+  </form>
+
+  <div id="dietPlanOutput"></div>
+</section>
+<div class="plan-section">
+  <h2>Generate Your Custom Diet Plan</h2>
+  <label for="userWeight">Enter your weight (kg):</label>
+  <input type="number" id="userWeight" required />
+
+  <label for="goal">Your Goal:</label>
+  <select id="goal">
+    <option value="weight_loss">Weight Loss</option>
+    <option value="weight_gain">Weight Gain</option>
+  </select>
+
+  <label for="exercise">Exercise Frequency:</label>
+  <select id="exercise">
+    <option value="none">No Exercise</option>
+    <option value="light">2-3 times a week</option>
+    <option value="regular">Daily</option>
+  </select>
+
+  <button id="generatePlanBtn">Click for Customized Diet Plan</button>
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>

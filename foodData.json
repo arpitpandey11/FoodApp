@@ -1,0 +1,2183 @@
+[
+  {
+    "name": "Plain Roti",
+    "weight": "40g",
+    "calories": 120,
+    "protein": 3.1,
+    "carbs": 18,
+    "fat": 3.0,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Tandoori Roti",
+    "weight": "50g",
+    "calories": 150,
+    "protein": 4.0,
+    "carbs": 22,
+    "fat": 3.5,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Butter Naan",
+    "weight": "80g",
+    "calories": 310,
+    "protein": 5.5,
+    "carbs": 40,
+    "fat": 14,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Paneer Butter Masala",
+    "weight": "150g",
+    "calories": 380,
+    "protein": 14.2,
+    "carbs": 18,
+    "fat": 28,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Rajma",
+    "weight": "100g",
+    "calories": 120,
+    "protein": 7,
+    "carbs": 22,
+    "fat": 1,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Chole",
+    "weight": "100g",
+    "calories": 140,
+    "protein": 8,
+    "carbs": 18,
+    "fat": 5,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Bhature",
+    "weight": "100g",
+    "calories": 300,
+    "protein": 5.2,
+    "carbs": 32,
+    "fat": 16,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Puri",
+    "weight": "50g",
+    "calories": 220,
+    "protein": 2.0,
+    "carbs": 14,
+    "fat": 16,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Masala Dosa",
+    "weight": "150g",
+    "calories": 387,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 18,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Idli",
+    "weight": "50g",
+    "calories": 58,
+    "protein": 1.6,
+    "carbs": 12.8,
+    "fat": 0.4,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Vada",
+    "weight": "70g",
+    "calories": 200,
+    "protein": 2.5,
+    "carbs": 22,
+    "fat": 10,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Upma",
+    "weight": "100g",
+    "calories": 110,
+    "protein": 2.5,
+    "carbs": 19,
+    "fat": 3.5,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Poha",
+    "weight": "100g",
+    "calories": 130,
+    "protein": 2.3,
+    "carbs": 22,
+    "fat": 4.5,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Kachori",
+    "weight": "80g",
+    "calories": 290,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 16,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Samosa",
+    "weight": "75g",
+    "calories": 250,
+    "protein": 3,
+    "carbs": 32,
+    "fat": 12,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Gobhi Paratha",
+    "weight": "100g",
+    "calories": 260,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Dal Tadka",
+    "weight": "100g",
+    "calories": 160,
+    "protein": 7.8,
+    "carbs": 18,
+    "fat": 6,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Mix Veg Curry",
+    "weight": "100g",
+    "calories": 130,
+    "protein": 4.2,
+    "carbs": 15,
+    "fat": 6,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Fried Rice",
+    "weight": "150g",
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 14,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Chole Bhature",
+    "weight": "300g",
+    "calories": 450,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 20,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Masala Dosa",
+    "weight": "200g",
+    "calories": 387,
+    "protein": 9,
+    "carbs": 50,
+    "fat": 15,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Tandoori Chicken",
+    "weight": "180g",
+    "calories": 265,
+    "protein": 28,
+    "carbs": 5,
+    "fat": 15,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Pav Bhaji",
+    "weight": "250g",
+    "calories": 410,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 22,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Rajma Chawal",
+    "weight": "300g",
+    "calories": 380,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 10,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Kadai Paneer",
+    "weight": "200g",
+    "calories": 320,
+    "protein": 14,
+    "carbs": 10,
+    "fat": 24,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Hyderabadi Biryani",
+    "weight": "350g",
+    "calories": 550,
+    "protein": 18,
+    "carbs": 65,
+    "fat": 25,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Dal Tadka",
+    "weight": "150g",
+    "calories": 220,
+    "protein": 9,
+    "carbs": 22,
+    "fat": 10,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Butter Naan",
+    "weight": "80g",
+    "calories": 210,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Kachori",
+    "weight": "90g",
+    "calories": 310,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 18,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Paneer Tikka",
+    "weight": "180g",
+    "calories": 280,
+    "protein": 17,
+    "carbs": 9,
+    "fat": 18,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Upma",
+    "weight": "150g",
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 7,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Dhokla",
+    "weight": "120g",
+    "calories": 160,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 4,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Poha",
+    "weight": "180g",
+    "calories": 240,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 8,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Moong Dal Khichdi",
+    "weight": "200g",
+    "calories": 260,
+    "protein": 9,
+    "carbs": 35,
+    "fat": 9,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Vada Pav",
+    "weight": "180g",
+    "calories": 350,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Bajra Roti",
+    "weight": "60g",
+    "calories": 110,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 2,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Masala Dosa",
+    "weight": "200g",
+    "calories": 387,
+    "protein": 9,
+    "carbs": 50,
+    "fat": 15,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Chicken Curry",
+    "weight": "180g",
+    "calories": 320,
+    "protein": 25,
+    "carbs": 6,
+    "fat": 21,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Pav Bhaji",
+    "weight": "250g",
+    "calories": 410,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 22,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Rajma Chawal",
+    "weight": "300g",
+    "calories": 380,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 10,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Aloo Paratha",
+    "weight": "180g",
+    "calories": 340,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Kadai Paneer",
+    "weight": "200g",
+    "calories": 320,
+    "protein": 14,
+    "carbs": 10,
+    "fat": 24,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Hyderabadi Biryani",
+    "weight": "350g",
+    "calories": 550,
+    "protein": 18,
+    "carbs": 65,
+    "fat": 25,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Sprouts Salad",
+    "weight": "150g",
+    "calories": 120,
+    "protein": 9,
+    "carbs": 15,
+    "fat": 3,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Besan Chilla",
+    "weight": "100g",
+    "calories": 180,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 8,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Dal Tadka",
+    "weight": "150g",
+    "calories": 220,
+    "protein": 9,
+    "carbs": 22,
+    "fat": 10,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Butter Naan",
+    "weight": "80g",
+    "calories": 210,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Kachori",
+    "weight": "90g",
+    "calories": 310,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 18,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Paneer Tikka",
+    "weight": "180g",
+    "calories": 280,
+    "protein": 17,
+    "carbs": 9,
+    "fat": 18,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Upma",
+    "weight": "150g",
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 7,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Dhokla",
+    "weight": "120g",
+    "calories": 160,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 4,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Poha",
+    "weight": "180g",
+    "calories": 240,
+    "protein": 4,
+    "carbs": 38,
+    "fat": 8,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Moong Dal Khichdi",
+    "weight": "200g",
+    "calories": 260,
+    "protein": 9,
+    "carbs": 35,
+    "fat": 9,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Vada Pav",
+    "weight": "180g",
+    "calories": 350,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Bajra Roti",
+    "weight": "60g",
+    "calories": 110,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 2,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Chana Masala",
+    "weight": "150g",
+    "calories": 210,
+    "protein": 11,
+    "carbs": 28,
+    "fat": 7,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Bhindi Fry",
+    "weight": "100g",
+    "calories": 120,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 9,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Samosa",
+    "weight": "80g",
+    "calories": 250,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 12,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Rava Upma",
+    "weight": "150g",
+    "calories": 180,
+    "protein": 5,
+    "carbs": 28,
+    "fat": 6,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Kaju Katli",
+    "weight": "50g",
+    "calories": 220,
+    "protein": 4,
+    "carbs": 26,
+    "fat": 12,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Dal Tadka",
+    "weight": "120g",
+    "calories": 150,
+    "protein": 7,
+    "carbs": 20,
+    "fat": 5,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Pav Bhaji",
+    "weight": "180g",
+    "calories": 280,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 10,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Rasgulla",
+    "weight": "100g",
+    "calories": 186,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 4,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Boiled Sweet Corn",
+    "weight": "100g",
+    "calories": 96,
+    "protein": 3,
+    "carbs": 21,
+    "fat": 1,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Aloo Matar",
+    "weight": "120g",
+    "calories": 160,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 8,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Egg Curry",
+    "weight": "150g",
+    "calories": 220,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 15,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Gajar Ka Halwa",
+    "weight": "100g",
+    "calories": 270,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 15,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Rajma",
+    "weight": "150g",
+    "calories": 220,
+    "protein": 9,
+    "carbs": 34,
+    "fat": 4,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Palak Paneer",
+    "weight": "150g",
+    "calories": 210,
+    "protein": 10,
+    "carbs": 8,
+    "fat": 14,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Paniyaram",
+    "weight": "100g",
+    "calories": 170,
+    "protein": 5,
+    "carbs": 24,
+    "fat": 6,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Bread Pakora",
+    "weight": "90g",
+    "calories": 300,
+    "protein": 6,
+    "carbs": 32,
+    "fat": 18,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Palak Paneer",
+    "weight": "200g",
+    "calories": 300,
+    "protein": 14,
+    "carbs": 12,
+    "fat": 20,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Rajma Chawal",
+    "weight": "250g",
+    "calories": 410,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Aloo Tikki",
+    "weight": "100g",
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 14,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Baingan Bharta",
+    "weight": "200g",
+    "calories": 180,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 8,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Tandoori Chicken",
+    "weight": "250g",
+    "calories": 320,
+    "protein": 32,
+    "carbs": 6,
+    "fat": 18,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Masala Dosa",
+    "weight": "200g",
+    "calories": 380,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 18,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Moong Dal Khichdi",
+    "weight": "250g",
+    "calories": 280,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Kadhai Paneer",
+    "weight": "200g",
+    "calories": 340,
+    "protein": 15,
+    "carbs": 14,
+    "fat": 24,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Chicken Biryani",
+    "weight": "300g",
+    "calories": 480,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 18,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Gulab Jamun",
+    "weight": "100g",
+    "calories": 280,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 14,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Dhokla",
+    "weight": "150g",
+    "calories": 160,
+    "protein": 6,
+    "carbs": 28,
+    "fat": 4,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Pav Bhaji",
+    "weight": "250g",
+    "calories": 440,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 24,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Rava Upma",
+    "weight": "200g",
+    "calories": 240,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Veg Hakka Noodles",
+    "weight": "300g",
+    "calories": 460,
+    "protein": 9,
+    "carbs": 60,
+    "fat": 18,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Kadhi Pakora",
+    "weight": "250g",
+    "calories": 320,
+    "protein": 10,
+    "carbs": 22,
+    "fat": 20,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Mixed Vegetable Curry",
+    "weight": "200g",
+    "calories": 220,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 12,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Paneer Tikka",
+    "weight": "200g",
+    "calories": 280,
+    "protein": 17,
+    "carbs": 8,
+    "fat": 18,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Sabudana Khichdi",
+    "weight": "200g",
+    "calories": 360,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 16,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Vegetable Pulao",
+    "weight": "250g",
+    "calories": 390,
+    "protein": 7,
+    "carbs": 50,
+    "fat": 15,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Tamarind Rice",
+    "weight": "200g",
+    "calories": 320,
+    "protein": 5,
+    "carbs": 48,
+    "fat": 12,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Cabbage Thoran",
+    "weight": "200g",
+    "calories": 140,
+    "protein": 4,
+    "carbs": 12,
+    "fat": 6,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Fish Curry",
+    "weight": "250g",
+    "calories": 330,
+    "protein": 25,
+    "carbs": 6,
+    "fat": 22,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Butter Chicken",
+    "weight": "300g",
+    "calories": 540,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 36,
+    "health_tag": {
+      "label": "Unhealthy",
+      "color": "red"
+    }
+  },
+  {
+    "name": "Litti Chokha",
+    "weight": "250g",
+    "calories": 430,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 22,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Raw Whey Protein",
+    "weight": "30g",
+    "calories": 120,
+    "protein": 24,
+    "carbs": 2,
+    "fat": 1.5,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Mass Gainer",
+    "weight": "100g",
+    "calories": 380,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 5,
+    "health_tag": { "label": "Moderate", "color": "yellow" }
+  },
+  {
+    "name": "Creatine Monohydrate",
+    "weight": "5g",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Boiled Eggs",
+    "weight": "100g",
+    "calories": 143,
+    "protein": 13,
+    "carbs": 1.1,
+    "fat": 9.5,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Grilled Chicken Breast",
+    "weight": "100g",
+    "calories": 165,
+    "protein": 31,
+    "carbs": 0,
+    "fat": 3.6,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Paneer (Raw)",
+    "weight": "100g",
+    "calories": 265,
+    "protein": 18,
+    "carbs": 1.2,
+    "fat": 20,
+    "health_tag": { "label": "Moderate", "color": "yellow" }
+  },
+  {
+    "name": "Tofu",
+    "weight": "100g",
+    "calories": 144,
+    "protein": 15,
+    "carbs": 3.9,
+    "fat": 8,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Soya Chunks (Boiled)",
+    "weight": "100g",
+    "calories": 345,
+    "protein": 52,
+    "carbs": 33,
+    "fat": 0.5,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Almonds",
+    "weight": "28g",
+    "calories": 164,
+    "protein": 6,
+    "carbs": 6,
+    "fat": 14,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Peanut Butter (Natural)",
+    "weight": "32g",
+    "calories": 190,
+    "protein": 8,
+    "carbs": 6,
+    "fat": 16,
+    "health_tag": { "label": "Moderate", "color": "yellow" }
+  },
+  {
+    "name": "Banana",
+    "weight": "118g",
+    "calories": 105,
+    "protein": 1.3,
+    "carbs": 27,
+    "fat": 0.3,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Oats (Cooked)",
+    "weight": "100g",
+    "calories": 71,
+    "protein": 2.5,
+    "carbs": 12,
+    "fat": 1.4,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Brown Rice (Cooked)",
+    "weight": "100g",
+    "calories": 111,
+    "protein": 2.6,
+    "carbs": 23,
+    "fat": 0.9,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Sweet Potato (Boiled)",
+    "weight": "100g",
+    "calories": 86,
+    "protein": 1.6,
+    "carbs": 20,
+    "fat": 0.1,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Greek Yogurt (Plain)",
+    "weight": "100g",
+    "calories": 59,
+    "protein": 10,
+    "carbs": 3.6,
+    "fat": 0.4,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Milk (Toned)",
+    "weight": "200ml",
+    "calories": 130,
+    "protein": 6.8,
+    "carbs": 10,
+    "fat": 7,
+    "health_tag": { "label": "Moderate", "color": "yellow" }
+  },
+  {
+    "name": "Protein Bar (Low Sugar)",
+    "weight": "50g",
+    "calories": 200,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 7,
+    "health_tag": { "label": "Moderate", "color": "yellow" }
+  },
+  {
+    "name": "Quinoa (Cooked)",
+    "weight": "100g",
+    "calories": 120,
+    "protein": 4.1,
+    "carbs": 21,
+    "fat": 1.9,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Fish (Rohu, Cooked)",
+    "weight": "100g",
+    "calories": 135,
+    "protein": 22,
+    "carbs": 0,
+    "fat": 5,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Cottage Cheese Sandwich",
+    "weight": "150g",
+    "calories": 290,
+    "protein": 14,
+    "carbs": 25,
+    "fat": 14,
+    "health_tag": { "label": "Moderate", "color": "yellow" }
+  },
+  {
+    "name": "Boiled Rajma",
+    "weight": "100g",
+    "calories": 127,
+    "protein": 9,
+    "carbs": 22,
+    "fat": 0.5,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Boiled Chana",
+    "weight": "100g",
+    "calories": 164,
+    "protein": 9,
+    "carbs": 27,
+    "fat": 2.6,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Avocado Toast",
+    "weight": "120g",
+    "calories": 250,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 16,
+    "health_tag": { "label": "Moderate", "color": "yellow" }
+  },
+  {
+    "name": "Multigrain Bread (2 slices)",
+    "weight": "60g",
+    "calories": 150,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 2,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Whey Protein (Unflavored)",
+    "weight": "30g",
+    "calories": 120,
+    "protein": 24,
+    "carbs": 2,
+    "fat": 1.5,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Grilled Chicken Breast",
+    "weight": "150g",
+    "calories": 250,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 6,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Greek Yogurt (Plain)",
+    "weight": "170g",
+    "calories": 100,
+    "protein": 17,
+    "carbs": 6,
+    "fat": 0,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Cottage Cheese (Low-Fat)",
+    "weight": "100g",
+    "calories": 98,
+    "protein": 11,
+    "carbs": 3,
+    "fat": 4,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Brown Rice (Cooked)",
+    "weight": "150g",
+    "calories": 165,
+    "protein": 3.5,
+    "carbs": 35,
+    "fat": 1,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Paneer Bhurji (Homemade, Less Oil)",
+    "weight": "150g",
+    "calories": 300,
+    "protein": 22,
+    "carbs": 8,
+    "fat": 20,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Soybean Curry",
+    "weight": "150g",
+    "calories": 180,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 9,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Protein Bar (Homemade Oats-Peanut)",
+    "weight": "50g",
+    "calories": 220,
+    "protein": 18,
+    "carbs": 15,
+    "fat": 10,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Mass Gainer Shake",
+    "weight": "100g",
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 8,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Boiled Eggs (3 pcs)",
+    "weight": "150g",
+    "calories": 210,
+    "protein": 18,
+    "carbs": 1,
+    "fat": 15,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Peanut Butter (Natural)",
+    "weight": "32g",
+    "calories": 190,
+    "protein": 8,
+    "carbs": 6,
+    "fat": 16,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Quinoa (Cooked)",
+    "weight": "150g",
+    "calories": 222,
+    "protein": 8,
+    "carbs": 39,
+    "fat": 3.5,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Creatine Monohydrate",
+    "weight": "5g",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Almonds (10 pcs)",
+    "weight": "14g",
+    "calories": 98,
+    "protein": 3.6,
+    "carbs": 3.5,
+    "fat": 8.6,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Mixed Nuts (Unsalted)",
+    "weight": "28g",
+    "calories": 170,
+    "protein": 6,
+    "carbs": 6,
+    "fat": 14,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Tofu Stir Fry",
+    "weight": "150g",
+    "calories": 220,
+    "protein": 18,
+    "carbs": 8,
+    "fat": 14,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Moong Dal (Boiled)",
+    "weight": "150g",
+    "calories": 170,
+    "protein": 14,
+    "carbs": 22,
+    "fat": 1,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Protein Smoothie (Banana+Milk+Whey)",
+    "weight": "300ml",
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 9,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Casein Protein (Slow Digesting)",
+    "weight": "30g",
+    "calories": 110,
+    "protein": 24,
+    "carbs": 1,
+    "fat": 1,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Chickpeas Salad (No Mayo)",
+    "weight": "150g",
+    "calories": 220,
+    "protein": 10,
+    "carbs": 28,
+    "fat": 8,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Flax Seeds",
+    "weight": "10g",
+    "calories": 55,
+    "protein": 2,
+    "carbs": 3,
+    "fat": 4,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "BCAA Supplement",
+    "weight": "7g",
+    "calories": 0,
+    "protein": 5,
+    "carbs": 0,
+    "fat": 0,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "weight": "20g",
+    "calories": 120,
+    "protein": 6,
+    "carbs": 4,
+    "fat": 10,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Protein Oats Bowl",
+    "weight": "250g",
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 8,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Egg White Omelette",
+    "weight": "120g",
+    "calories": 80,
+    "protein": 15,
+    "carbs": 1,
+    "fat": 2,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Tofu Bhurji",
+    "weight": "150g",
+    "calories": 220,
+    "protein": 18,
+    "carbs": 7,
+    "fat": 14,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Paneer Paratha (Low Oil)",
+    "weight": "180g",
+    "calories": 340,
+    "protein": 17,
+    "carbs": 30,
+    "fat": 15,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Fish Curry (Grilled)",
+    "weight": "150g",
+    "calories": 250,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 12,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Whey Protein + Banana Shake",
+    "weight": "300ml",
+    "calories": 280,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 6,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Mass Gainer Shake (Homemade)",
+    "weight": "350ml",
+    "calories": 500,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Egg White Omelette with Veggies",
+    "weight": "180g",
+    "calories": 160,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 4,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Chicken Breast Salad",
+    "weight": "200g",
+    "calories": 240,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 10,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Moong Sprouts Chat",
+    "weight": "150g",
+    "calories": 140,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 2,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "BCAA Drink",
+    "weight": "300ml",
+    "calories": 20,
+    "protein": 5,
+    "carbs": 0,
+    "fat": 0,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Peanut Butter Sandwich (Brown Bread)",
+    "weight": "120g",
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Chia Seed Pudding",
+    "weight": "100g",
+    "calories": 180,
+    "protein": 7,
+    "carbs": 10,
+    "fat": 12,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Almond & Date Energy Bar",
+    "weight": "50g",
+    "calories": 210,
+    "protein": 6,
+    "carbs": 18,
+    "fat": 12,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Quinoa with Mixed Veggies",
+    "weight": "200g",
+    "calories": 280,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 8,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Greek Yogurt with Honey",
+    "weight": "150g",
+    "calories": 160,
+    "protein": 10,
+    "carbs": 15,
+    "fat": 5,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Roasted Soy Nuts",
+    "weight": "50g",
+    "calories": 190,
+    "protein": 15,
+    "carbs": 9,
+    "fat": 10,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Post Workout Recovery Drink",
+    "weight": "250ml",
+    "calories": 150,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 1,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Egg Bhurji (Less Oil)",
+    "weight": "160g",
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Low-Fat Paneer Tikka",
+    "weight": "150g",
+    "calories": 230,
+    "protein": 20,
+    "carbs": 6,
+    "fat": 12,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Oats Upma",
+    "weight": "200g",
+    "calories": 270,
+    "protein": 10,
+    "carbs": 38,
+    "fat": 8,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Protein Oats Pancakes",
+    "weight": "150g",
+    "calories": 290,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 10,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Whey Protein (Isolate) Shake",
+    "weight": "250ml",
+    "calories": 120,
+    "protein": 27,
+    "carbs": 2,
+    "fat": 1,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Steamed Chicken Momos",
+    "weight": "160g",
+    "calories": 200,
+    "protein": 15,
+    "carbs": 22,
+    "fat": 7,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Tuna Sandwich (Whole Wheat)",
+    "weight": "160g",
+    "calories": 280,
+    "protein": 22,
+    "carbs": 28,
+    "fat": 8,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Sattu Drink",
+    "weight": "250ml",
+    "calories": 180,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 3,
+    "health_tag": {
+      "label": "Healthy",
+      "color": "green"
+    }
+  },
+  {
+    "name": "Low Fat Chicken Keema Roll",
+    "weight": "200g",
+    "calories": 300,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10,
+    "health_tag": {
+      "label": "Moderate",
+      "color": "yellow"
+    }
+  },
+  {
+    "name": "Pumpkin Seeds",
+    "weight": "28g",
+    "calories": 151,
+    "protein": 7,
+    "carbs": 5,
+    "fat": 13,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Tofu (Firm)",
+    "weight": "100g",
+    "calories": 144,
+    "protein": 15,
+    "carbs": 3,
+    "fat": 9,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Chicken Breast (Boiled)",
+    "weight": "100g",
+    "calories": 165,
+    "protein": 31,
+    "carbs": 0,
+    "fat": 3.6,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Cottage Cheese (Paneer Low Fat)",
+    "weight": "100g",
+    "calories": 145,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 7,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Protein Energy Bar",
+    "weight": "50g",
+    "calories": 200,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 8,
+    "health_tag": { "label": "Moderate", "color": "yellow" }
+  },
+  {
+    "name": "Creatine Monohydrate",
+    "weight": "5g",
+    "calories": 0,
+    "protein": 0,
+    "carbs": 0,
+    "fat": 0,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "BCAA Powder",
+    "weight": "10g",
+    "calories": 40,
+    "protein": 8,
+    "carbs": 1,
+    "fat": 0,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Soy Chunks (Cooked)",
+    "weight": "100g",
+    "calories": 345,
+    "protein": 52,
+    "carbs": 33,
+    "fat": 0.5,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Dry Roasted Chana",
+    "weight": "100g",
+    "calories": 380,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 6,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Mass Gainer Supplement",
+    "weight": "100g",
+    "calories": 400,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 5,
+    "health_tag": { "label": "Moderate", "color": "yellow" }
+  },
+  {
+    "name": "Hard-Boiled Egg",
+    "weight": "50g",
+    "calories": 77,
+    "protein": 6.3,
+    "carbs": 0.6,
+    "fat": 5.3,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Homemade Protein Shake",
+    "weight": "250ml",
+    "calories": 300,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Skimmed Milk",
+    "weight": "250ml",
+    "calories": 90,
+    "protein": 8.5,
+    "carbs": 12,
+    "fat": 0.5,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Grilled Tandoori Chicken",
+    "weight": "150g",
+    "calories": 270,
+    "protein": 35,
+    "carbs": 2,
+    "fat": 12,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Rajma (Boiled)",
+    "weight": "100g",
+    "calories": 140,
+    "protein": 9,
+    "carbs": 24,
+    "fat": 0.8,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Boiled Black Chickpeas (Kala Chana)",
+    "weight": "100g",
+    "calories": 164,
+    "protein": 9,
+    "carbs": 27,
+    "fat": 2.6,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Grilled Fish (Rohu)",
+    "weight": "100g",
+    "calories": 145,
+    "protein": 22,
+    "carbs": 0,
+    "fat": 6,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Peanut Butter (Natural)",
+    "weight": "32g",
+    "calories": 190,
+    "protein": 8,
+    "carbs": 6,
+    "fat": 16,
+    "health_tag": { "label": "Moderate", "color": "yellow" }
+  },
+  {
+    "name": "Protein Dosa (Moong Dal)",
+    "weight": "100g",
+    "calories": 180,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 5,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Green Moong Sprouts",
+    "weight": "100g",
+    "calories": 105,
+    "protein": 7,
+    "carbs": 19,
+    "fat": 0.5,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Oats Upma",
+    "weight": "150g",
+    "calories": 210,
+    "protein": 6,
+    "carbs": 32,
+    "fat": 7,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Lentil Soup (Dal)",
+    "weight": "150g",
+    "calories": 160,
+    "protein": 10,
+    "carbs": 22,
+    "fat": 3,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Brown Bread (2 Slices)",
+    "weight": "60g",
+    "calories": 140,
+    "protein": 6,
+    "carbs": 24,
+    "fat": 2,
+    "health_tag": { "label": "Moderate", "color": "yellow" }
+  },
+  {
+    "name": "Casein Protein Shake",
+    "weight": "30g",
+    "calories": 120,
+    "protein": 24,
+    "carbs": 3,
+    "fat": 1,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  },
+  {
+    "name": "Homemade Besan Cheela",
+    "weight": "100g",
+    "calories": 170,
+    "protein": 10,
+    "carbs": 22,
+    "fat": 5,
+    "health_tag": { "label": "Healthy", "color": "green" }
+  }
+]
